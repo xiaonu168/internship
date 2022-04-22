@@ -13,7 +13,7 @@
         操作:鼠标悬浮展开子级菜单，点击跳转，标题过长鼠标悬浮参见悬浮提示</span
       >
     </p>
-    <Nav :treearr="navData" :navwidth="300" :navheight="400"> </Nav>
+    <Nav :treearr="navData" :navwidth="300" :navheight="300"> </Nav>
     <br />
     <br />
     <p>
