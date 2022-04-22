@@ -1,0 +1,21 @@
+{
+    "imgs": [
+        {
+            "url": "img0",
+            "path":"/home/page1"
+        },
+        {
+            "url": "img1",
+            "path":"/home/page2"
+        },
+        {
+            "url": "img2",
+            "path":"/home/page1"
+        },
+        {
+            "url": "img3",
+            "path":"/home/page2"
+        }
+    ]
+    
+}

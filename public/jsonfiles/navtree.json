@@ -1,0 +1,46 @@
+{
+    "navtree": [
+        {
+            "title": "一级菜单 1",
+            "path": "/home/page1"
+        },
+        {
+            "path": "/home/page1",
+            "title": "一级菜单 2  一级菜单 2  一级菜单 2  一级菜单 2",
+            "children": [
+                {
+                    "path": "/home/page2",
+                    "title": "二级菜单 2-1",
+                    "children": [
+                        {
+                            "path": "/home/page2",
+                            "title": "三级菜单 2-1-1"
+                        },
+                        {
+                            "path": "/home/page2",
+                            "title": "三级菜单 2-1-2"
+                        }
+                    ]
+                },
+                {
+                    "path": "/home/page2",
+                    "title": "二级菜单 2-2"
+                }
+            ]
+        },
+        {
+            "path": "/home/page1",
+            "title": "一级菜单 3",
+            "children": [
+                {
+                    "path": "/home/page2",
+                    "title": "二级菜单 3-1"
+                },
+                {
+                    "path": "/home/page2",
+                    "title": "二级菜单 3-2"
+                }
+            ]
+        }
+    ]
+}
